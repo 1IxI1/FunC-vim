@@ -1,4 +1,4 @@
-### FunC syntax highlighting for vim (alpha release)
+### FunC syntax highlighting for vim (beta release)
 Add below line to init.vim Plug section and run ```:PlugUpdate```  
 
 ```

@@ -2,5 +2,5 @@
 
 #### Installing via VimPlug
 ```
-Plug '1ixi1/FunC-vim', { 'for': 'FunC'}
+Plug '1ixi1/FunC-vim', { 'for': 'func'}
 ```

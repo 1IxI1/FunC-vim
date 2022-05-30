@@ -1,2 +1,2 @@
-" app
-autocmd BufNewFile,BufReadPost *.fc set filetype=func
+" Detecting FunC files
+autocmd BufNewFile,BufReadPost *.fc,*.func set filetype=FunC

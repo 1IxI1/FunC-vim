@@ -1,2 +1,2 @@
 " Detecting FunC files
-autocmd BufNewFile,BufReadPost *.fc,*.func set filetype=FunC
+autocmd BufNewFile,BufReadPost *.fc,*.func set filetype=func

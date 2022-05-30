@@ -2,5 +2,5 @@
 Add below line to init.vim Plug section and run ```:PlugUpdate```  
 
 ```
-Plug 'app/func.vim', { 'for': 'func'}
+Plug '1ixi1/func.vim', { 'for': 'FunC'}
 ```
